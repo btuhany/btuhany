@@ -32,7 +32,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=btuhany&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=btuhany&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
