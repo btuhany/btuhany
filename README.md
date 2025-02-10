@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Batuhan and I'm a Game Developer from Turkey</h2>
-
 ###
 
 <img align="right" height="150" src="./images/findik.png"  />
